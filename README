@@ -1,4 +1,8 @@
-                   ------------------------------
+[![Build](https://github.com/ediz-genc/gimp/actions/workflows/build.yml/badge.svg)](https://github.com/ediz-genc/gimp/actions/workflows/build.yml)
+
+
+
+		   ------------------------------
                    GNU Image Manipulation Program
                        3.0 Release Candidate
                    ------------------------------
