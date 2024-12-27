@@ -40,6 +40,7 @@
 typedef struct _ColorselCmyk      ColorselCmyk;
 typedef struct _ColorselCmykClass ColorselCmykClass;
 
+
 struct _ColorselCmyk
 {
   GimpColorSelector   parent_instance;
